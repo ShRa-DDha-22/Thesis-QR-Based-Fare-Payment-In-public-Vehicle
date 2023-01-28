@@ -1,0 +1,6 @@
+{
+    "require": {
+        "khanamiryan/qrcode-detector-decoder": "^2.0",
+        "braintree/braintree_php": "^6.11"
+    }
+}
